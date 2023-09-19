@@ -1,0 +1,50 @@
+body {
+	background-image:url("./image/food-menu.jpg");
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+*{
+	font-style:italic;
+	font-family: sans-serif;
+}
+#heading{
+	color:#FAAF02;
+	font-size:100px;
+	overflow:hidden;
+}
+
+#coln1 p{
+	color:white;
+	font-size:30px;
+}
+
+#coln1 h1,h2{
+	color:#FAAF02;
+	overflow:hidden;
+	font-size:60px;
+}
+
+#coln1 {
+	border:5px solid #FAAF02;
+	overflow:hidden;
+	padding:20px;
+	height:800px;
+	width:800px;
+}
+
+#coln2{
+	border:5px solid #FAAF02;
+	overflow:hidden;
+	padding:20px;
+	height:800px;
+	width:800px;
+}
+
+#coln2 p{
+		font-size:30px;
+}
+
+#coln2, p{
+	color:white;
+}
